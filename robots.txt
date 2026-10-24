@@ -1,4 +1,5 @@
-User-agent: *
+User-Agent: *
 Allow: /
 
+Host: https://munasip.github.io
 Sitemap: https://munasip.github.io/sitemap.xml
